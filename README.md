@@ -54,8 +54,11 @@ namespace profile {
 <h2 align="center">Published Projects:</h2>
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.orthocana.runy"><img src="https://image.winudf.com/v2/image1/Y29tLm9ydGhvY2FuYS5ydW55X2ljb25fMTU3OTE2NDM5NF8wMjE/icon.png?w=170&fakeurl=1" heigth="128" width="128"/></a>
-    
    <a href="https://www.cotocrafter.com/"><img src="https://cotocrafter.blob.core.windows.net/cotocrafter/Cotocrafter_Color.png?sv=2019-10-10&st=2021-01-03T03%3A58%3A00Z&se=2022-01-01T03%3A58%3A00Z&sr=b&sp=r&sig=Z3wLEofpWIN8F7c3uZtJyQoi9gK11lGrF2dQlQvIXyo%3D" heigth="128" width="128"/></a>
+</p>
+
+<h2 align="center">Published Projects:</h2>
+<p align="center">
     <a href="https://www.notion.so/Unity-Async-Scene-Loader-fd53b69e400143c6abb397903f5bd020">    
         <p align="center">
             <img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'>
@@ -63,7 +66,7 @@ namespace profile {
                 Unity Async Scene Loader
             </p>
         </p>
-    </a>
+    </a>    
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
