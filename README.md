@@ -41,15 +41,28 @@ namespace profile {
       <img src='https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg' height='50px'>
       <img src="https://vuejs.org/images/logo.png" heigth="50px" width="50px"/></a>
       <img src='https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg' height='50px'>
-      <img src="https://img.icons8.com/color/48/000000/css3.png" height='50px'/>
       <img src="https://img.icons8.com/color/48/000000/html-5.png" height='50px'/>
+      <img src="https://img.icons8.com/color/48/000000/css3.png" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height='50px'/>
       <img src="https://img.icons8.com/color/48/000000/javascript.png" height='50px'/>
       <img src="https://img.icons8.com/color/48/000000/typescript.png" height='50px'/>
-      <img src="https://img.icons8.com/color/48/000000/visual-studio.png" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" height='50px'/>
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" height='50px'/>
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px'/>
       <img src="https://img.icons8.com/color/48/000000/docker.png" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height='50px'/>
+      <img src='https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg' height='50px'>
+      <img src='https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg' height='50px'>
+      <img src='https://www.vectorlogo.zone/logos/apache/apache-icon.svg' height='50px'>
       <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='50px'>
+      <img src='https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg' height='50px'>
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-tile.svg" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" height='50px'/>
 </p>
 
 <h2 align="center">Published Projects:</h2>
