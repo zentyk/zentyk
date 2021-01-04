@@ -39,7 +39,7 @@ namespace profile {
       <img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'>
       <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px'>
       <img src='https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg' height='50px'>
-      <a src="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" heigth="30" width="30"/></a>
+      <a src="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" heigth="50px" width="50px"/></a>
       <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
       <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
       <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
