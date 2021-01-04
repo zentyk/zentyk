@@ -71,8 +71,8 @@ namespace profile {
       <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-tile.svg" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" height='50px'/>
-      <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/webcomponents/webcomponents-official.svg" height='50px'/>
+      <!--<img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" height='50px'/>-->
 </p>
 
 <h2 align="center">Platforms where i published:</h2>
