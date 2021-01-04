@@ -39,16 +39,16 @@ namespace profile {
       <img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'>
       <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px'>
       <img src='https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg' height='50px'>
-      <a src="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" heigth="50px" width="50px"/></a>
-      <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-      <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-      <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-      <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-      <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-      <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-      <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-      <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-      <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+      <img src="https://vuejs.org/images/logo.png" heigth="50px" width="50px"/></a>
+      <img src='https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg' height='50px'>
+      <img src="https://img.icons8.com/color/48/000000/css3.png" height='50px'/>
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" height='50px'/>
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" height='50px'/>
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" height='50px'/>
+      <img src="https://img.icons8.com/color/48/000000/visual-studio.png" height='50px'/>
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" height='50px'/>
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px'/>
+      <img src="https://img.icons8.com/color/48/000000/docker.png" height='50px'/>
       <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='50px'>
 </p>
 
