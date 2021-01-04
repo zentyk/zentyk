@@ -37,10 +37,16 @@ namespace profile {
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
       <img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'>
+      <img src='https://github.com/uiwjs/file-icons/blob/master/icon/shaderlab.svg' height='50px'>
+      <img src='https://github.com/detain/svg-logos/blob/master/svg/adobe-xd.svg' height='50px'>
       <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px'>
+      <!--<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" height='50px'/>-->
+      <!--<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height='50px'/>-->
+      <!--<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height='50px'/>-->
       <img src='https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg' height='50px'>
       <img src="https://vuejs.org/images/logo.png" heigth="50px" width="50px"/></a>
       <img src='https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg' height='50px'>
+      <img src='https://github.com/detain/svg-logos/blob/master/svg/paypal-icon.svg' height='50px'>
       <img src="https://img.icons8.com/color/48/000000/html-5.png" height='50px'/>
       <img src="https://img.icons8.com/color/48/000000/css3.png" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height='50px'/>
@@ -59,11 +65,23 @@ namespace profile {
       <img src='https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg' height='50px'>
       <img src="https://github.com/detain/svg-logos/blob/master/svg/microsoft-sql-server.svg" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height='50px'/>
+      <!--<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height='50px'/>-->
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-tile.svg" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" height='50px'/>
+      <img src="https://www.vectorlogo.zone/logos/webcomponents/webcomponents-official.svg" height='50px'/>
+</p>
+
+<h2 align="center">Platforms where i published:</h2>
+<p align="center">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/windows.svg" height='50px'/>
+    <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" height='50px'/>
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" height='50px'/>
+    <img src="https://www.vectorlogo.zone/logos/xbox/xbox-icon.svg" height='50px'/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" height='50px'/>
 </p>
 
 <h2 align="center">Published Projects:</h2>
