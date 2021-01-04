@@ -57,7 +57,7 @@ namespace profile {
    <a href="https://www.cotocrafter.com/"><img src="https://cotocrafter.blob.core.windows.net/cotocrafter/Cotocrafter_Color.png?sv=2019-10-10&st=2021-01-03T03%3A58%3A00Z&se=2022-01-01T03%3A58%3A00Z&sr=b&sp=r&sig=Z3wLEofpWIN8F7c3uZtJyQoi9gK11lGrF2dQlQvIXyo%3D" heigth="128" width="128"/></a>
 </p>
 
-<h2 align="center">Published Projects:</h2>
+<h2 align="center">Published Tools:</h2>
 <p align="center">
     <a href="https://www.notion.so/Unity-Async-Scene-Loader-fd53b69e400143c6abb397903f5bd020">    
         <p align="center">
