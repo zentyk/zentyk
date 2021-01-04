@@ -32,6 +32,7 @@ namespace profile {
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
+  <a src="https://unity.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-n9YqjJCKHak%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FFJmfOSwUIuc%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg" heigth="40" width="40"/></a>
   <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
   <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -42,6 +43,12 @@ namespace profile {
   <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
   <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
   <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+</p>
+
+<h2 align="center">Published Projects:</h2>
+<p align="center">
+    <a src="https://play.google.com/store/apps/details?id=com.orthocana.runy"><img src="https://image.winudf.com/v2/image1/Y29tLm9ydGhvY2FuYS5ydW55X2ljb25fMTU3OTE2NDM5NF8wMjE/icon.png?w=170&fakeurl=1" heigth="128" width="128"/></a>
+   <a src="https://www.cotocrafter.com/"><img src="https://cotocrafter.blob.core.windows.net/cotocrafter/Cotocrafter_Color.png?sv=2019-10-10&st=2021-01-03T03%3A58%3A00Z&se=2022-01-01T03%3A58%3A00Z&sr=b&sp=r&sig=Z3wLEofpWIN8F7c3uZtJyQoi9gK11lGrF2dQlQvIXyo%3D" heigth="128" width="128"/></a>
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
