@@ -19,6 +19,10 @@ namespace profile {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
+   <a href="https://twitter.com/zentykdev">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Arturo Sanchez LinkedIn Profile" height="30" width="30">
+  </a>
+    
   <a href="https://www.linkedin.com/in/zentykdev/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Arturo Sanchez LinkedIn Profile" height="30" width="30">
   </a>
@@ -32,23 +36,37 @@ namespace profile {
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-  <a src="https://unity.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-n9YqjJCKHak%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FFJmfOSwUIuc%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg" heigth="40" width="40"/></a>
-  <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-  <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-  <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-  <a src="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" heigth="30" width="30"/></a>
-  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-  <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-  <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-  <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-  <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+      <img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'>
+      <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px'>
+      <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+      <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+      <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+      <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+      <a src="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" heigth="30" width="30"/></a>
+      <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+      <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+      <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+      <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+      <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+      <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='50px'>
 </p>
 
 <h2 align="center">Published Projects:</h2>
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.orthocana.runy"><img src="https://image.winudf.com/v2/image1/Y29tLm9ydGhvY2FuYS5ydW55X2ljb25fMTU3OTE2NDM5NF8wMjE/icon.png?w=170&fakeurl=1" heigth="128" width="128"/></a>
    <a href="https://www.cotocrafter.com/"><img src="https://cotocrafter.blob.core.windows.net/cotocrafter/Cotocrafter_Color.png?sv=2019-10-10&st=2021-01-03T03%3A58%3A00Z&se=2022-01-01T03%3A58%3A00Z&sr=b&sp=r&sig=Z3wLEofpWIN8F7c3uZtJyQoi9gK11lGrF2dQlQvIXyo%3D" heigth="128" width="128"/></a>
+</p>
+
+<h2 align="center">Published Blog Posts:</h2>
+<p align="center">
+    <a href="https://www.notion.so/Unity-Async-Scene-Loader-fd53b69e400143c6abb397903f5bd020">
+        <p align="center">
+            <img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'>
+            <p align="center">
+                Unity Async Scene Loader
+            </p>
+        </p>
+    </a>
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
@@ -64,3 +82,6 @@ namespace profile {
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zentyk&show_icons=true&theme=synthwave" alt="Zentyk :: Profile Stats" /></p>
+
+<h2 align="center">Pinned Repositories</h2>
+<p align="center">Take a look at my most outstanding repositories.</p>
