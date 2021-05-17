@@ -62,14 +62,12 @@ namespace profile {
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height='50px'/>
       <img src='https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg' height='50px'>
       <img src='https://www.vectorlogo.zone/logos/apache/apache-icon.svg' height='50px'>
-      <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='50px'>
-      <img src='https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg' height='50px'>
       <img src="https://github.com/detain/svg-logos/blob/master/svg/microsoft-sql-server.svg" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height='50px'/>
-      <!--<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height='50px'/>-->
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px'/>
+      <!--<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height='50px'/-->
+      <!--img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px'/-->
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" height='50px'/>
-      <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" height='50px'/>
+      <!--img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" height='50px'/-->
       <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" height='50px'/>
       <img src='https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg' height='50px'>
       <!--<img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" height='50px'/>-->
