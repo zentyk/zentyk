@@ -65,7 +65,7 @@ namespace profile {
       <img src="https://github.com/detain/svg-logos/blob/master/svg/microsoft-sql-server.svg" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height='50px'/>
       <!--<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height='50px'/-->
-      <!--img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px'/-->
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px'/>
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" height='50px'/>
       <!--img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" height='50px'/-->
       <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" height='50px'/>
