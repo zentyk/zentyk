@@ -6,12 +6,13 @@
 namespace profile {
     class zentyk {
         public zentyk {
-            "- ⚡ Quick bio:":                    "Multimedia developer, expert in Unity3D and Specialized .Net Developer",
-            "- 🔭 I’m currently working on":      "as a Freelancer for Unity, WebAPIs and Mobile Projects",
-            "- 🌱 I’m currently learning":        "Cg/HLSL, UX, Adobe XD Plugin Development and GraphQL",
-            "- 👯 I’m looking to collaborate on": "Unity, Xamarin, WPF, WCF or ASP.net Projects",
+            "- ⚡ Quick bio:":                    "Multimedia developer, expert in Javascript/Typescript and Specialized .Net Developer",
+            "- 🔭 I’m currently working on":      "CMS development with Meteor.js and MongoDB",
+            "- 🌱 I’m currently learning":        "WebGL, AssemblyScript, Nativescript,  Blockchain",
+            "- 👯 I’m looking to collaborate on": "Babylon, Xamarin, WPF, WCF or ASP.net Projects",
             "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-            "- 💬 Ask me about":                  "Unity Development, Xamarin.Forms or anyting related to .Net technologies",
+            "- 💬 Ask me about":                  "Unity Development, Xamarin.Forms, Typescript, Game Development or anyting related to .Net technologies",
+        }
     }
 }
 ```
@@ -38,11 +39,11 @@ namespace profile {
 <p align="center">
       <!--img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'-->
       <!--img src='https://github.com/uiwjs/file-icons/blob/master/icon/shaderlab.svg' height='50px'-->
+      <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px' alt="C#">
       <img src="https://img.icons8.com/color/48/000000/javascript.png" height='50px' alt="Javascript"/>
       <img src="https://img.icons8.com/color/48/000000/typescript.png" height='50px' alt="Typescript"/>
-      <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px' alt="C#">
-      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" height='50px' alt="Swift"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height='50px' alt="Java"/>
+      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" height='50px' alt="Swift"/>
       <!--<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height='50px'/>-->
       <img src='https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg' height='50px' alt="Xamarin"/>
       <img src="https://vuejs.org/images/logo.png" heigth="50px" width="50px" alt="vue.js"/>
