@@ -2,19 +2,17 @@
 
 <h2 align="center">About me</h2>
 
-```cs
-namespace profile {
+```js
     class zentyk {
-        public zentyk {
+        constructor() {
             "- ⚡ Quick bio:":                    "Multimedia developer, expert in Javascript/Typescript and Specialized .Net Developer",
-            "- 🔭 I’m currently working on":      "CMS development with Meteor.js and MongoDB",
+            "- 🔭 I’m currently working on":      "Game Development with canvas API and webGL",
             "- 🌱 I’m currently learning":        "WebGL, AssemblyScript, Nativescript,  Blockchain",
-            "- 👯 I’m looking to collaborate on": "Babylon, Xamarin, WPF, WCF or ASP.net Projects",
+            "- 👯 I’m looking to collaborate on": "WPF, ASP.net, WCF, or Xamarin Projects",
             "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-            "- 💬 Ask me about":                  "Unity Development, Xamarin.Forms, Typescript, Game Development or anyting related to .Net technologies",
+            "- 💬 Ask me about":                  "Game Development topics or technical questions about Javascript/Typescript or anyting related to .Net technologies"
         }
     }
-}
 ```
 
 <h2 align="center">You can reach me at :alien:</h2>
@@ -39,13 +37,13 @@ namespace profile {
 <p align="center">
       <!--img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'-->
       <!--img src='https://github.com/uiwjs/file-icons/blob/master/icon/shaderlab.svg' height='50px'-->
-      <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px' alt="C#">
+      <!--img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px' alt="C#"-->
       <img src="https://img.icons8.com/color/48/000000/javascript.png" height='50px' alt="Javascript"/>
       <img src="https://img.icons8.com/color/48/000000/typescript.png" height='50px' alt="Typescript"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height='50px' alt="Java"/>
-      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" height='50px' alt="Swift"/>
+      <!--img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height='50px' alt="Java"/-->
+      <!--img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" height='50px' alt="Swift"/-->
       <!--<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height='50px'/>-->
-      <img src='https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg' height='50px' alt="Xamarin"/>
+      <!--img src='https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg' height='50px' alt="Xamarin"/-->
       <img src="https://vuejs.org/images/logo.png" heigth="50px" width="50px" alt="vue.js"/>
       <img src='https://github.com/detain/svg-logos/blob/master/svg/adobe-xd.svg' height='50px'>
       <img src='https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg' height='50px' alt="Stripe">
@@ -54,7 +52,7 @@ namespace profile {
       <img src="https://img.icons8.com/color/48/000000/css3.png" height='50px' alt="CSS3"/>
       <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height='50px' alt="SASS"/>
       <img src="https://www.vectorlogo.zone/logos/webcomponents/webcomponents-official.svg" height='50px' alt="WebComponents"/>
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" height='50px' alt=".Net"/>
+      <!--img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" height='50px' alt=".Net"/-->
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" height='50px' alt="Node.js"/>
       <img src="https://img.icons8.com/color/48/000000/docker.png" height='50px' alt="Docker"/>
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height='50px' alt="Kubernetes"/>
@@ -63,7 +61,7 @@ namespace profile {
       <!--img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height='50px' alt="Amazon Web Services"/-->
       <img src='https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg' height='50px' alt="Nginx">
       <img src='https://www.vectorlogo.zone/logos/apache/apache-icon.svg' height='50px' alt="Apache">
-      <img src="https://github.com/detain/svg-logos/blob/master/svg/microsoft-sql-server.svg" height='50px' alt="MS SQL Server"/>
+      <!--img src="https://github.com/detain/svg-logos/blob/master/svg/microsoft-sql-server.svg" height='50px' alt="MS SQL Server"/-->
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height='50px' alt="MariaDb"/>
       <!--<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height='50px'/-->
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px' alt="MongoDb"/>
@@ -86,6 +84,12 @@ namespace profile {
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.orthocana.runy"><img src="https://image.winudf.com/v2/image1/Y29tLm9ydGhvY2FuYS5ydW55X2ljb25fMTU3OTE2NDM5NF8wMjE/icon.png?w=170&fakeurl=1" heigth="128" width="128"/></a>
 </p>
+<p align="center">
+    <a href="https://qlebra.netlify.app">
+        <img src="https://user-images.githubusercontent.com/8301647/198844407-f43867f8-5412-482d-8791-eebd0ac86816.png" heigth="128" width="128"/>
+    </a>
+</p>
+
 
 <h2 align="center">Published Tools:</h2>
 <p align="center">
