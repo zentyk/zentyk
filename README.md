@@ -35,40 +35,39 @@
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-      <!--img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'-->
-      <!--img src='https://github.com/uiwjs/file-icons/blob/master/icon/shaderlab.svg' height='50px'-->
-      <!--img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px' alt="C#"-->
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" height='50px' alt="Javascript"/>
-      <img src="https://img.icons8.com/color/48/000000/typescript.png" height='50px' alt="Typescript"/>
-      <!--img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height='50px' alt="Java"/-->
-      <!--img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" height='50px' alt="Swift"/-->
-      <!--<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height='50px'/>-->
-      <!--img src='https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg' height='50px' alt="Xamarin"/-->
-      <img src="https://vuejs.org/images/logo.png" heigth="50px" width="50px" alt="vue.js"/>
-      <img src='https://github.com/detain/svg-logos/blob/master/svg/adobe-xd.svg' height='50px'>
-      <img src='https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg' height='50px' alt="Stripe">
-      <img src='https://github.com/detain/svg-logos/blob/master/svg/paypal-icon.svg' height='50px' alt="PayPal API">
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" height='50px' alt="HTML 5"/>
-      <img src="https://img.icons8.com/color/48/000000/css3.png" height='50px' alt="CSS3"/>
-      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height='50px' alt="SASS"/>
-      <img src="https://www.vectorlogo.zone/logos/webcomponents/webcomponents-official.svg" height='50px' alt="WebComponents"/>
-      <!--img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" height='50px' alt=".Net"/-->
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" height='50px' alt="Node.js"/>
-      <img src="https://img.icons8.com/color/48/000000/docker.png" height='50px' alt="Docker"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height='50px' alt="Kubernetes"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height='50px' alt="MS Azure"/>
-      <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-tile.svg" height='50px' alt="VS Appcenter"/>
-      <!--img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height='50px' alt="Amazon Web Services"/-->
-      <img src='https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg' height='50px' alt="Nginx">
-      <img src='https://www.vectorlogo.zone/logos/apache/apache-icon.svg' height='50px' alt="Apache">
-      <!--img src="https://github.com/detain/svg-logos/blob/master/svg/microsoft-sql-server.svg" height='50px' alt="MS SQL Server"/-->
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height='50px' alt="MariaDb"/>
-      <!--<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height='50px'/-->
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px' alt="MongoDb"/>
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" height='50px' alt="Ubuntu"/>
-      <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" height='50px' alt="Sentry"/>
-      <img src='https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg' height='50px' alt="D3.js">
-      <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" height='50px' alt="WebAssembly"/>
+    <!--img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'-->
+    <!--img src='https://github.com/uiwjs/file-icons/blob/master/icon/shaderlab.svg' height='50px'-->
+    <!--img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px' alt="C#"-->
+    <img src='https://github.com/detain/svg-logos/blob/master/svg/adobe-xd.svg' height='50px'>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" height='50px' alt="HTML 5"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" height='50px' alt="CSS3"/>
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height='50px' alt="SASS"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" height='50px' alt="Javascript"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" height='50px' alt="Typescript"/>
+    <!--img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height='50px' alt="Java"/-->
+    <!--img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" height='50px' alt="Swift"/-->
+    <!--<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height='50px'/>-->
+    <!--img src='https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg' height='50px' alt="Xamarin"/-->
+    <img src="https://vuejs.org/images/logo.png" heigth="50px" width="50px" alt="vue.js"/>
+    <img src='https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg' height='50px' alt="D3.js">
+    <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" height='50px' alt="WebAssembly"/>
+    <img src="https://www.vectorlogo.zone/logos/webcomponents/webcomponents-official.svg" height='50px' alt="WebComponents"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" height='50px' alt="Node.js"/>
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height='50px' alt="MariaDb"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" height='50px' alt="MongoDb"/>
+    <!--img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" height='50px' alt=".Net"/-->
+    <img src="https://img.icons8.com/color/48/000000/docker.png" height='50px' alt="Docker"/>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height='50px' alt="Kubernetes"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height='50px' alt="MS Azure"/>
+    <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-tile.svg" height='50px' alt="VS Appcenter"/>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height='50px' alt="Amazon Web Services"/>
+    <img src='https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg' height='50px' alt="Nginx">
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" height='50px' alt="Ubuntu"/>
+    <!--img src="https://github.com/detain/svg-logos/blob/master/svg/microsoft-sql-server.svg" height='50px' alt="MS SQL Server"/-->
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height='50px'>
+    <img src='https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg' height='50px' alt="Stripe">
+    <img src='https://github.com/detain/svg-logos/blob/master/svg/paypal-icon.svg' height='50px' alt="PayPal API">
+    <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" height='50px' alt="Sentry"/>
 </p>
 
 <h2 align="center">Platforms where i published:</h2>
