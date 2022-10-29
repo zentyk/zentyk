@@ -81,25 +81,22 @@
 
 <h2 align="center">Published Projects:</h2>
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.orthocana.runy"><img src="https://image.winudf.com/v2/image1/Y29tLm9ydGhvY2FuYS5ydW55X2ljb25fMTU3OTE2NDM5NF8wMjE/icon.png?w=170&fakeurl=1" heigth="128" width="128"/></a>
-</p>
-<p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.orthocana.runy">
+        <img src="https://image.winudf.com/v2/image1/Y29tLm9ydGhvY2FuYS5ydW55X2ljb25fMTU3OTE2NDM5NF8wMjE/icon.png?w=170&fakeurl=1" heigth="128" width="128"/>
+    </a>
     <a href="https://qlebra.netlify.app">
         <img src="https://user-images.githubusercontent.com/8301647/198844407-f43867f8-5412-482d-8791-eebd0ac86816.png" heigth="128" width="128"/>
     </a>
 </p>
-
 
 <h2 align="center">Published Tools:</h2>
 <p align="center">
     <a href="https://www.notion.so/Unity-Async-Scene-Loader-fd53b69e400143c6abb397903f5bd020">    
         <p align="center">
             <img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'>
-            <p align="center">
-                Unity Async Scene Loader
-            </p>
+            <p align="center">Unity Async Scene Loader</p>
         </p>
-    </a>    
+    </a>
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
