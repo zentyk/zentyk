@@ -9,7 +9,7 @@
             "- 🌱 I’m currently learning":        "HTML5 Canvas API, WebGL, WebGPU and Assemblyscript.",
             "- 👯 I’m looking to collaborate on": "Web projects.",
             "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅.",
-            "- 💬 Ask me about":                  "Game Development topics or technical questions about Javascript/Typescript."
+            "- 💬 Ask me about":                  "Game Development topics or questions about Typescript."
         }
     }
 ```
