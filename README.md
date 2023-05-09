@@ -14,7 +14,7 @@
     }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me in...</h2>
 
 <p align="center">
    <a href="https://twitter.com/zentykdev">
@@ -90,12 +90,12 @@
 
 <h2 align="center">Published Tools:</h2>
 <p align="center">
-    <a href="https://www.notion.so/Unity-Async-Scene-Loader-fd53b69e400143c6abb397903f5bd020">    
+    <!--a href="https://www.notion.so/Unity-Async-Scene-Loader-fd53b69e400143c6abb397903f5bd020">    
         <p align="center">
             <img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'>
             <p align="center">Unity Async Scene Loader</p>
         </p>
-    </a>
+    </a-->
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
