@@ -3,14 +3,13 @@
 <h2 align="center">About me</h2>
 
 ```js
-    class zentyk {
-        constructor() {
-            "- ⚡ Quick bio:":                    "Multimedia developer, expert in Javascript/Typescript and Specialized .Net Developer",
-            "- 🔭 I’m currently working on":      "Game Development with canvas API and webGL",
-            "- 🌱 I’m currently learning":        "WebGL, AssemblyScript, Nativescript,  Blockchain",
-            "- 👯 I’m looking to collaborate on": "WPF, ASP.net, WCF, or Xamarin Projects",
-            "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-            "- 💬 Ask me about":                  "Game Development topics or technical questions about Javascript/Typescript or anyting related to .Net technologies"
+    const zentyk = {
+            "- ⚡ Quick bio:":                    "Multimedia developer, expert in Javascript/Typescript.",
+            "- 🔭 I’m currently working on":      "Vysum, a small library for Responsive Design.",
+            "- 🌱 I’m currently learning":        "HTML5 Canvas API, WebGL, WebGPU and Assemblyscript.",
+            "- 👯 I’m looking to collaborate on": "Web projects.",
+            "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅.",
+            "- 💬 Ask me about":                  "Game Development topics or technical questions about Javascript/Typescript."
         }
     }
 ```
