@@ -41,7 +41,6 @@
     <img src="https://img.icons8.com/color/48/000000/html-5.png" height='50px' alt="HTML 5"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" height='50px' alt="CSS3"/>
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height='50px' alt="SASS"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" height='50px' alt="Javascript"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" height='50px' alt="Typescript"/>
     <!--img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height='50px' alt="Java"/-->
     <!--img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" height='50px' alt="Swift"/-->
