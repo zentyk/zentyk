@@ -37,7 +37,7 @@
     <!--img src='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg' height='50px'-->
     <!--img src='https://github.com/uiwjs/file-icons/blob/master/icon/shaderlab.svg' height='50px'-->
     <!--img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px' alt="C#"-->
-    <img src='https://github.com/detain/svg-logos/blob/master/svg/adobe-xd.svg' height='50px'>
+    <!--img src='https://github.com/detain/svg-logos/blob/master/svg/adobe-xd.svg' height='50px'-->
     <img src="https://img.icons8.com/color/48/000000/html-5.png" height='50px' alt="HTML 5"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" height='50px' alt="CSS3"/>
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height='50px' alt="SASS"/>
@@ -65,7 +65,7 @@
     <!--img src="https://github.com/detain/svg-logos/blob/master/svg/microsoft-sql-server.svg" height='50px' alt="MS SQL Server"/-->
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height='50px'>
     <img src='https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg' height='50px' alt="Stripe">
-    <img src='https://github.com/detain/svg-logos/blob/master/svg/paypal-icon.svg' height='50px' alt="PayPal API">
+    <!--img src='https://github.com/detain/svg-logos/blob/master/svg/paypal-icon.svg' height='50px' alt="PayPal API"-->
     <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" height='50px' alt="Sentry"/>
 </p>
 
@@ -80,9 +80,6 @@
 
 <h2 align="center">Published Projects:</h2>
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.orthocana.runy">
-        <img src="https://image.winudf.com/v2/image1/Y29tLm9ydGhvY2FuYS5ydW55X2ljb25fMTU3OTE2NDM5NF8wMjE/icon.png?w=170&fakeurl=1" heigth="128" width="128"/>
-    </a>
     <a href="https://qlebra.netlify.app">
         <img src="https://user-images.githubusercontent.com/8301647/198844407-f43867f8-5412-482d-8791-eebd0ac86816.png" heigth="128" width="128"/>
     </a>
